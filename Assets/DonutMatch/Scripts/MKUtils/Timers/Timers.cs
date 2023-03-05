@@ -93,7 +93,7 @@ using System.Globalization;
     08.07.2020 - remove class CustomProvider
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     /// <summary>
     /// Game timer, calc only ingame time

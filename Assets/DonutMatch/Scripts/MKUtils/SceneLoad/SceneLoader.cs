@@ -26,7 +26,7 @@ using UnityEngine.SceneManagement;
     18.05.2021 - OnDestroy
 */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class SceneLoader : MonoBehaviour
     {

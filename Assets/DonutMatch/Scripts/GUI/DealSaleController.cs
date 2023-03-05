@@ -6,7 +6,7 @@ using UnityEngine;
     using UnityEditor;
 #endif
 
-namespace Mkey
+namespace DonutMatach
 {
     public class DealSaleController : MonoBehaviour
     {

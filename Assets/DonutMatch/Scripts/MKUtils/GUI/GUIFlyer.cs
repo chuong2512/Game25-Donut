@@ -7,7 +7,7 @@ using UnityEngine.UI;
     25.11.2020 - check parent canvas
     26.01.2022 - random distance
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class GUIFlyer : MonoBehaviour
     {

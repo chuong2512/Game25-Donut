@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
 
-namespace Mkey
+namespace DonutMatach
 {
     public class StoryPage : PopUpsController
     {

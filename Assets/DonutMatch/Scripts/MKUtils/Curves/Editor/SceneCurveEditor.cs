@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace Mkey
+namespace DonutMatach
 {
     [CustomEditor(typeof(SceneCurve))]
     public class SceneCurveEditor : Editor

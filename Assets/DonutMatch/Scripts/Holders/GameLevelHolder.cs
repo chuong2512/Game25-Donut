@@ -13,7 +13,7 @@ using System.Collections.Generic;
   17.06.2021
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     [CreateAssetMenu(menuName = "ScriptableObjects/GameLevelHolder")]
     public class GameLevelHolder : SingletonScriptableObject<GameLevelHolder>

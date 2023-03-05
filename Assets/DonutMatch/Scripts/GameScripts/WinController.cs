@@ -3,7 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Mkey
+namespace DonutMatach
 {
     public enum GameResult {None, WinAuto, Win, PreLoose, Loose}
     public class WinController : MonoBehaviour

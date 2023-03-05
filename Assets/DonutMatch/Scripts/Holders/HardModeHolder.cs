@@ -9,7 +9,7 @@ using UnityEngine.Events;
     player hard mode holder
     22.06.2021
  */
-namespace Mkey
+namespace DonutMatach
 {
     public enum HardMode { Easy, Hard }
 

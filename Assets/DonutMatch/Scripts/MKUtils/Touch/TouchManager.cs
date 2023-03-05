@@ -4,7 +4,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Mkey
+namespace DonutMatach
 {
     public class TouchManager : MonoBehaviour
     {

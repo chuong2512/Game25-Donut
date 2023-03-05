@@ -13,7 +13,7 @@ using System.Collections.Generic;
   15.06.2021
   8.10.2021
  */
-namespace Mkey
+namespace DonutMatach
 {
     [CreateAssetMenu(menuName = "ScriptableObjects/StarsHolder")]
     public class StarsHolder : SingletonScriptableObject<StarsHolder>

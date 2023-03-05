@@ -6,7 +6,7 @@ using UnityEngine;
     26.01.2021
     04.04.2021 - add autoload
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class SceneLoadHelper : MonoBehaviour
     {

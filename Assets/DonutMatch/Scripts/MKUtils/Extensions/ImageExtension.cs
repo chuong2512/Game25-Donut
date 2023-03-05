@@ -5,7 +5,7 @@ using UnityEngine.UI;
   10.06.2020 - first
 */
 
-namespace Mkey
+namespace DonutMatach
 {
     public static class ImageExtension
     {

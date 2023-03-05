@@ -19,7 +19,7 @@ using UnityEditor;
     03.02.2021 - update 
 */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class GameConstructor : MonoBehaviour
     {

@@ -8,7 +8,7 @@ using UnityEngine.Events;
     15.07.2020 - add  public CRCurve Curve =>curve;
     25.11.2020 - add check - < if (gObject && relativeTo)>
 */
-namespace Mkey
+namespace DonutMatach
 {
     [ExecuteInEditMode]
     public enum DisplayMode {None, Display, DisplaySelected }

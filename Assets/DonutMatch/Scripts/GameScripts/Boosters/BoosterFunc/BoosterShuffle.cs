@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Mkey
+namespace DonutMatach
 {
     public class BoosterShuffle : BoosterFunc
     {

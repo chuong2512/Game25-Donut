@@ -9,7 +9,7 @@ using UnityEngine;
     -  if(sr) sr.color ...
 
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class SpriteTrail : MonoBehaviour
     {

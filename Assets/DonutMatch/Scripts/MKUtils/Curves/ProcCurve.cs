@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
     08102019 - start
     22.03.2021 - helix (beta)
 */
-namespace Mkey
+namespace DonutMatach
 {
     public class ProcCurve
     {

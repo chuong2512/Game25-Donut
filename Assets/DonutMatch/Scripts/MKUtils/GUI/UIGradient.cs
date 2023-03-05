@@ -4,7 +4,7 @@ using UnityEngine.UI;
 /*
  02.01.2021
  */
-namespace Mkey
+namespace DonutMatach
 {
     //http://answers.unity3d.com/questions/1086415/gradient-text-in-unity-522-basevertexeffect-is-obs.html?childToView=1103637#answer-1103637
     public class UIGradient : BaseMeshEffect

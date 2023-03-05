@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 /*
     23.08.2020 - first
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class TouchPadMessageTarget : MonoBehaviour, IEventSystemHandler //, ICustomMessageTarget
     {

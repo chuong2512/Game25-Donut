@@ -5,7 +5,7 @@ using UnityEngine;
   02.07.2020 - first
 */
 
-namespace Mkey
+namespace DonutMatach
 {
     public static class PlayerPrefsExtension
     {

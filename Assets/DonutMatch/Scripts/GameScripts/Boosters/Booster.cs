@@ -7,7 +7,7 @@ using UnityEngine.UI;
 /*
  23.02.2021
  */
-namespace Mkey
+namespace DonutMatach
 {
 	[CreateAssetMenu]
 	public class Booster : ScriptableObject

@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
 
-namespace Mkey
+namespace DonutMatach
 {
     public class DailyRewardLine : MonoBehaviour
     {

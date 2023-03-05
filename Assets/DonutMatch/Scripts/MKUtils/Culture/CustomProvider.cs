@@ -3,7 +3,7 @@ using System.Globalization;
 /*
    08.07.2020 - first
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class CustomProvider : IFormatProvider
     {

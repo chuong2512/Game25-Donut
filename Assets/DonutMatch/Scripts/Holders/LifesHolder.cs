@@ -12,7 +12,7 @@ using UnityEditor;
   07.06.2021
   17.08.2021
  */
-namespace Mkey
+namespace DonutMatach
 {
     [CreateAssetMenu(menuName = "ScriptableObjects/LifesHolder")]
     public class LifesHolder : SingletonScriptableObject<LifesHolder>

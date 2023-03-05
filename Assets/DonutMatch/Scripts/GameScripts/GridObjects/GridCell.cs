@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Mkey
+namespace DonutMatach
 {
     public class GridCell : TouchPadMessageTarget
     {

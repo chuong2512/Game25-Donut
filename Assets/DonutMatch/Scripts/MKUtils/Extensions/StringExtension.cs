@@ -10,7 +10,7 @@ using System;
 */
 
 
-namespace Mkey
+namespace DonutMatach
 {
     public static class StringExtension //http://stackoverflow.com/questions/1508203/best-way-to-split-string-into-lines
     {

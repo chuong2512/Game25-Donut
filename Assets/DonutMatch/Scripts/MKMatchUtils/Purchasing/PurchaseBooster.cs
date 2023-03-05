@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Mkey {
+namespace DonutMatach {
     public class PurchaseBooster : MonoBehaviour
     {
         [SerializeField]

@@ -8,7 +8,7 @@ using UnityEngine;
     23.07.2020 - add DelayAction
     12.10.2020 - tween color
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class TweenIntValue
     {

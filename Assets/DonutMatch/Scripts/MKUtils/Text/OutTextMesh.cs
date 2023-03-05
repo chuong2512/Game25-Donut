@@ -7,7 +7,7 @@ using UnityEngine.UI;
 /*
 	25.02.2021
 */
-namespace Mkey
+namespace DonutMatach
 {
 	public class OutTextMesh : MonoBehaviour
 	{

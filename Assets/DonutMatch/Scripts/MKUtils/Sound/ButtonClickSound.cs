@@ -5,7 +5,7 @@ using UnityEngine;
     22.04.2019
   - add click sound
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class ButtonClickSound : MonoBehaviour
     {

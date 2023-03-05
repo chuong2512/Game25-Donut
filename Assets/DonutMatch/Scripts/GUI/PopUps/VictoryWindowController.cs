@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using System;
 
-namespace Mkey
+namespace DonutMatach
 {
     public class VictoryWindowController : PopUpsController
     {

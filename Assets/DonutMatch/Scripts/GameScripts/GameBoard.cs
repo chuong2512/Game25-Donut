@@ -8,7 +8,7 @@ using UnityEngine.UI;
     using UnityEditor;
 #endif
 
-namespace Mkey
+namespace DonutMatach
 {
     public enum AutoWin { Fast, Slow, Bombs}
     public enum MoveDir {Left, Right, Up, Down }

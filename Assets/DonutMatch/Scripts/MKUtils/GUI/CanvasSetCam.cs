@@ -4,7 +4,7 @@
 	23.10.2019 - first
 	22.11.2019 - remove slot reference
 */
-namespace Mkey
+namespace DonutMatach
 {
     public class CanvasSetCam : MonoBehaviour
 	{

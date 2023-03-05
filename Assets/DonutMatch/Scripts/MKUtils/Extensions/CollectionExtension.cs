@@ -17,7 +17,7 @@ using UnityEngine;
     - GetClampedByIndex
     - GetPingPongByIndex
 */
-namespace Mkey {
+namespace DonutMatach {
     public static class CollectionExtension
     {
         /// <summary>

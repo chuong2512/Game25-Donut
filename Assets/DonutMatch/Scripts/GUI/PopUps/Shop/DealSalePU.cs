@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Mkey
+namespace DonutMatach
 {
     public enum Format {F1, F2, F3}
 	public class DealSalePU : PopUpsController

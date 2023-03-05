@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading;
 
-namespace Mkey
+namespace DonutMatach
 {
     public class PathFinder
     {

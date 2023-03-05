@@ -10,7 +10,7 @@ using UnityEngine.Events;
   04.05.2021
   27.05.2021
  */
-namespace Mkey
+namespace DonutMatach
 {
     [CreateAssetMenu(menuName = "ScriptableObjects/CoinsHolder")]
     public class CoinsHolder : SingletonScriptableObject<CoinsHolder>

@@ -11,7 +11,7 @@ using System;
     24.05.2021 -  ActivateSlides(); public void ShowPrevSlide(); public void ShowNextSlide()
 */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class GuiSlider : MonoBehaviour
     {

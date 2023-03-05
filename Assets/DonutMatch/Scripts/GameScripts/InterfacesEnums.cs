@@ -1,4 +1,4 @@
-﻿namespace Mkey
+﻿namespace DonutMatach
 {
     public enum GameMode { Play, Edit }
     public enum MatchBoardState { ShowEstimate, Fill, Collect, Waiting, Iddle}

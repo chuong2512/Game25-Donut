@@ -6,7 +6,7 @@
         -if (cancelButton) cancelButton.gameObject.SetActive(cancelButtonActive);
         -if (noButton) noButton.gameObject.SetActive(noButtonActive);
  */
-namespace Mkey
+namespace DonutMatach
 {
     public enum MessageAnswer { None , Yes, Cancel, No }
     public class WarningMessController : PopUpsController

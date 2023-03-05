@@ -9,7 +9,7 @@ using UnityEngine.EventSystems;
     23.10.2020 - check overlay raycaster
     14.12.2020 - check EvenSystemObject existing
  */
-namespace Mkey
+namespace DonutMatach
 {
     [Serializable]
     public class TouchPadEventArgs

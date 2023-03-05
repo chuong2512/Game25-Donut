@@ -9,7 +9,7 @@ using UnityEngine.UI;
     15.10.2020 - add fb name;
     08.12.2020 - unlink photo from avatar group
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class FaceBookGUIController : MonoBehaviour
     {

@@ -41,7 +41,7 @@ using UnityEngine;
 20.03.2019
     add forcecancelall
      */
-namespace Mkey
+namespace DonutMatach
 {
     public class SimpleTween : MonoBehaviour
     {

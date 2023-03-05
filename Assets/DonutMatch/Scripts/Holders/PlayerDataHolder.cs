@@ -12,7 +12,7 @@ using System.Collections.Generic;
   player data holder 
   26.06.2021
  */
-namespace Mkey
+namespace DonutMatach
 {
     [CreateAssetMenu(menuName = "ScriptableObjects/PlayerDataHolder")]
     public class PlayerDataHolder : SingletonScriptableObject<PlayerDataHolder>

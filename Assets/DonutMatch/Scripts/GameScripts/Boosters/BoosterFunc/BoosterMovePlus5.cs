@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Mkey
+namespace DonutMatach
 {
     public class BoosterMovePlus5 : BoosterFunc
     {

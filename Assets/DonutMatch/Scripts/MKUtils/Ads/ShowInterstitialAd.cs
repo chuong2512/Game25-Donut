@@ -7,7 +7,7 @@ using UnityEngine.Events;
     12.01.2020
 */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class ShowInterstitialAd : MonoBehaviour
     {

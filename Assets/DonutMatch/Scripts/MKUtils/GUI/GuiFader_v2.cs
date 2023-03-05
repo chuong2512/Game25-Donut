@@ -31,7 +31,7 @@ using System;
 
     11.11.2020 +GuiFaderEditor
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class GuiFader_v2 : MonoBehaviour
     {

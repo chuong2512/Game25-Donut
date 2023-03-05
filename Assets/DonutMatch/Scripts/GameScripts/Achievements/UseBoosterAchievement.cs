@@ -7,7 +7,7 @@ using UnityEngine.UI;
     using UnityEditor;
 #endif
 
-namespace Mkey
+namespace DonutMatach
 {
 	public class UseBoosterAchievement : Achievement
 	{

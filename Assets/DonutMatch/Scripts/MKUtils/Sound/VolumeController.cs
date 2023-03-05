@@ -8,7 +8,7 @@ using UnityEngine.UI;
  31.03.2020 - first
  17.02.2021 - add volumeTouchSlider, musicVolumeTouchSlider,  PSlider musicSlider
  */
-namespace Mkey
+namespace DonutMatach
 {
 	public class VolumeController : MonoBehaviour
 	{

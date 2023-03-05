@@ -8,7 +8,7 @@ using UnityEngine.EventSystems;
 // https://docs.unity3d.com/ScriptReference/Input-simulateMouseWithTouches.html
 // https://romanluks.eu/blog/how-to-simulate-touch-with-mouse-in-unity/
 // https://gist.github.com/sdabet/3bda94676a4674e6e4a0
-namespace Mkey
+namespace DonutMatach
 {
     public class TouchPadS : MonoBehaviour
     {

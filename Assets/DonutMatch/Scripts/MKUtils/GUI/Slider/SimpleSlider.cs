@@ -9,7 +9,7 @@ using UnityEngine.UI;
   18.02.2021 - OnValueChanged;
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     [ExecuteInEditMode]
     public class SimpleSlider :  PSlider

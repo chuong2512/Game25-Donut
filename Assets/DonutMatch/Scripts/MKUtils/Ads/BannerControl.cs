@@ -7,7 +7,7 @@ using System.Collections;
         -avoid duplicate banner
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     public enum BannerState {Show, Hide }
     public class BannerControl : MonoBehaviour

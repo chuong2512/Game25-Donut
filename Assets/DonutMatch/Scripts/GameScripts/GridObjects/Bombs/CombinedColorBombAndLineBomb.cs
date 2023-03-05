@@ -2,7 +2,7 @@
 using UnityEngine;
 using System;
 
-namespace Mkey
+namespace DonutMatach
 {
     public class CombinedColorBombAndLineBomb : CombinedBomb
     {

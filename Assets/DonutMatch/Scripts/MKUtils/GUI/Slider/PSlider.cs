@@ -5,7 +5,7 @@ using UnityEngine.Events;
 	27.02.2020 - first
     18.02.2021 - OnValueChanged;
 */
-namespace Mkey
+namespace DonutMatach
 {
     public class PSlider : MonoBehaviour
     {

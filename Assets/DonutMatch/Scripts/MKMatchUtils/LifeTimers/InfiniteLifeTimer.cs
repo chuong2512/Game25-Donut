@@ -7,7 +7,7 @@ using UnityEngine.Events;
     25.01.2022 remove player reference
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class InfiniteLifeTimer : MonoBehaviour
     {

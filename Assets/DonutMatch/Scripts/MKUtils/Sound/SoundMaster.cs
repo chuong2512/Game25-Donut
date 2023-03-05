@@ -104,7 +104,7 @@ using UnityEngine;
         04.05.2021 - add  public void StopClips(AudioClip clip),  play loop -  public void PlayClip(float delay, bool loop, AudioClip clip)
 */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class SoundMaster : MonoBehaviour
     {

@@ -10,7 +10,7 @@ using UnityEngine.UI;
   06.01.2020 - first
   07.07.2020 - only one button
  */
-namespace Mkey
+namespace DonutMatach
 {
     [ExecuteInEditMode]
     public class Inspector_Button : MonoBehaviour

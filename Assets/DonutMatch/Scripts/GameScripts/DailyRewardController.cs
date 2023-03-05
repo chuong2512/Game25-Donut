@@ -9,7 +9,7 @@ using UnityEngine.Events;
     using UnityEditor;
 #endif
 
-namespace Mkey
+namespace DonutMatach
 {
     public class DailyRewardController : MonoBehaviour
     {

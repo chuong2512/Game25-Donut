@@ -1,7 +1,7 @@
 ﻿using UnityEngine.UI;
 using UnityEngine;
 
-namespace Mkey {
+namespace DonutMatach {
     public class GUIObjectTargetHelper : MonoBehaviour {
 
         [SerializeField]

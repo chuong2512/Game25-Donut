@@ -5,7 +5,7 @@
     30.06.2020 remove reverence to =GuiController
  */
 
-namespace Mkey
+namespace DonutMatach
 {
 	public class ShowGuiPopUp : MonoBehaviour
 	{

@@ -6,7 +6,7 @@ using System.Linq;
     02.12.2019 - first
     7.02.2020 - changes
  */
-namespace Mkey
+namespace DonutMatach
 {
     [CreateAssetMenu]
     public class GameConstructSet : BaseScriptable

@@ -1,23 +1,12 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
+﻿using UnityEngine;
 
-/*
-	22.11.2019 - first
-    31.01.2020 - rename to OpenURLButton
-*/
-namespace Mkey
+namespace DonutMatach
 {
-	public class OpenURLButton : MonoBehaviour
-	{
-        [SerializeField]
-        private string URL;
-
+    public class OpenURLButton : MonoBehaviour
+    {
         public void Click()
         {
-            if (!string.IsNullOrEmpty(URL)) Application.OpenURL(URL);
+            Application.OpenURL("market://details?id=" + Application.identifier);
         }
     }
 }

@@ -3,7 +3,7 @@ using UnityEditor.SceneManagement;
 using UnityEditorInternal;
 using UnityEngine.SceneManagement;
 
-namespace Mkey
+namespace DonutMatach
 {
     [CustomEditor(typeof(GameObjectsSet))]
     public class GameObjectsSetEditor : Editor

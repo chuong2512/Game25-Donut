@@ -6,7 +6,7 @@ using UnityEngine;
     27.08.2020 - first
     20.09.2021 - InstantiatePrefabAtPosition()
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class PrefabInstantiator : MonoBehaviour
     {

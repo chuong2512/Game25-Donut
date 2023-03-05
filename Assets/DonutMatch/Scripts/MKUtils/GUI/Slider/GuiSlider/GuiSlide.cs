@@ -7,7 +7,7 @@ using UnityEngine.Events;
     24.05.2021 - SetCurrentEvent;
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class GuiSlide : MonoBehaviour
     {

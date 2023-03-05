@@ -8,7 +8,7 @@ using UnityEngine.UI;
     27.05.2020 - leftsize, pointer
     18.02.2021 - OnValueChanged;
 */
-namespace Mkey
+namespace DonutMatach
 {
     [ExecuteInEditMode]
     public class ProgressSlider : PSlider

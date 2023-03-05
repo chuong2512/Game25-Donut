@@ -6,7 +6,7 @@ using System.Collections;
     01.02.2021 - add  public void ShowSelfClosingMesssage()
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     [CreateAssetMenu]
     public class ShowSelfClosingMessage : ScriptableObject

@@ -5,7 +5,7 @@ using System.Collections;
    11112019 - first
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class DontDestroyObj : MonoBehaviour
     {

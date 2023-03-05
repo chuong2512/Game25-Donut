@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Mkey
+namespace DonutMatach
 {
 	public class StarChestGUIController : MonoBehaviour
 	{

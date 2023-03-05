@@ -13,7 +13,7 @@ using UnityEditorInternal;
     27.11.2020  ClearConsole()
     24.03.2021 - remove property drawers
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class EditorExt
     {

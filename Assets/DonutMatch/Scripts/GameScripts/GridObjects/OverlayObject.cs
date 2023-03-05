@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Mkey
+namespace DonutMatach
 {
     public enum BlockProps { OnlyTouch, BlockMatch, BlockMovement }
     public class OverlayObject : GridObject

@@ -37,7 +37,7 @@ using System.Collections.Generic;
         - check interstitial != null
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class AdsControl : MonoBehaviour
     {

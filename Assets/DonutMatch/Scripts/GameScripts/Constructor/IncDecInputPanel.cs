@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-namespace Mkey
+namespace DonutMatach
 {
     public class IncDecInputPanel : MonoBehaviour
     {

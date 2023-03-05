@@ -10,7 +10,7 @@ using UnityEditor;
   27.10.2020
   23.02.2021 - add SingletonScriptableObject<T> , LoadResourceAssets
  */
-namespace Mkey
+namespace DonutMatach
 {
     public static class ScriptableObjectUtility //http://wiki.unity3d.com/index.php?title=CreateScriptableObjectAsset
     {

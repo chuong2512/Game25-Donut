@@ -10,7 +10,7 @@ using UnityEngine.EventSystems;
   18.02.2021 - SetOnWithoutNotify
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class ToggleButton : MonoBehaviour, IPointerDownHandler
     {

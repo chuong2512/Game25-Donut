@@ -5,7 +5,7 @@ using System.Collections;
     30.06.2020 - first
     04.01.2020 - wait soun master
  */
-namespace Mkey
+namespace DonutMatach
 {
     enum SoundMusic {Sound, Music}
 	public class GUIMusicSoundButtonBehavior : MonoBehaviour

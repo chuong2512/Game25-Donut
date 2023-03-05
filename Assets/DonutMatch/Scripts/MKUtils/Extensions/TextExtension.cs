@@ -8,7 +8,7 @@ using UnityEngine.UI;
    20.06.2020 - add text mesh
 */
 
-namespace Mkey
+namespace DonutMatach
 {
     public static class TextExtension
     {

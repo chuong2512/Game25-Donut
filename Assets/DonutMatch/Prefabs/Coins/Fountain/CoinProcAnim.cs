@@ -8,7 +8,7 @@ using UnityEngine.UI;
 /*
     04.04.2021
  */
-namespace Mkey
+namespace DonutMatach
 {
 	public class CoinProcAnim : MonoBehaviour
 	{

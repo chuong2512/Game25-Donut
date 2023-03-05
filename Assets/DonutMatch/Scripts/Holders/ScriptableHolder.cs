@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Mkey
+namespace DonutMatach
 {
 	[DefaultExecutionOrder (-100)]
 	public class ScriptableHolder : MonoBehaviour

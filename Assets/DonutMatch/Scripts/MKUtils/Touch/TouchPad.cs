@@ -31,7 +31,7 @@ using System.Linq;
     23.08.2020 - get only top collider, remove classes touchpadmessagetarget, toucpadeventarguments
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class TouchPad : MonoBehaviour, IPointerDownHandler, IDragHandler, IPointerUpHandler, IBeginDragHandler, IDropHandler, IPointerExitHandler
     {

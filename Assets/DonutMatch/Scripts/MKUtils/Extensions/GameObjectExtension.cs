@@ -9,7 +9,7 @@ using UnityEngine;
     25.03.2021 - add    public static void GetChilds(this GameObject g, bool recursively, ref List<GameObject> gList)
 */
 
-namespace Mkey
+namespace DonutMatach
 {
     [Serializable]
     // GetInterface method for gameobject

@@ -11,7 +11,7 @@ using UnityEngine.UI;
 /*
   24.03.2021 - add property drawers
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class NamedArrayAttribute : PropertyAttribute
     {

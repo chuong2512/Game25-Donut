@@ -8,7 +8,7 @@ using UnityEngine.UI;
     17.02.2021 - add setactive , setinvactive
     02.03.2021 - SetActiveTrue ...
  */
-namespace Mkey
+namespace DonutMatach
 {
     public class GameObjectToggle : MonoBehaviour
     {

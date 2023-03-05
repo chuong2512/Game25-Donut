@@ -9,7 +9,7 @@ using UnityEngine.Events;
     11.01.2021 - improve sound
  */
 
-namespace Mkey
+namespace DonutMatach
 {
     public class ShowRewardedAd : MonoBehaviour
     {

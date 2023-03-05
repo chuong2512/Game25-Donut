@@ -6,7 +6,7 @@ using System.Collections.Generic;
     02.12.2019 - first
     19.02.2020 - changes 
  */
-namespace Mkey
+namespace DonutMatach
 {
     [CreateAssetMenu]
     public class GameObjectsSet : BaseScriptable, ISerializationCallbackReceiver

@@ -12,7 +12,7 @@ using System.Collections.Generic;
   player score holder
   20.06.2021
  */
-namespace Mkey
+namespace DonutMatach
 {
     [CreateAssetMenu(menuName = "ScriptableObjects/ScoreHolder")]
     public class ScoreHolder : SingletonScriptableObject<ScoreHolder>

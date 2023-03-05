@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-namespace Mkey
+namespace DonutMatach
 {
     //[ExecuteInEditMode]
     public class Biome : MonoBehaviour
