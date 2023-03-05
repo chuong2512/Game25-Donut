@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd08bbdd5f1c83a41af0426d5242f456, type: 3}
+  m_Name: BoosterExplosive
+  m_EditorClassIdentifier: 
+  funcPrefab: {fileID: 2949760135519299647, guid: aff807282fc095d4d9808f88866dd6f6,
+    type: 3}
+  activateHelperBrefab: {fileID: 114301382435503824, guid: 1ff28447b7bf52d49a6f55dbd6f2cd8e,
+    type: 3}
+  guiHelpers:
+  - {fileID: 114301382435503824, guid: 08f87568b6b192545bd6c0de3b878fec, type: 3}
+  - {fileID: 114301382435503824, guid: 6117e60a6fa0ae446a950d7b73938317, type: 3}
+  id: -2147483648
